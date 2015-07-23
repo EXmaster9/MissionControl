@@ -7,7 +7,7 @@ The application must be run on the same network as all ChromeCasts.
 
 
 ## The Receiver
-Even though the receiver uses multiple video players (and might support additional content types), it uses the YouTube event naming conventions. The receiver produces the foloowing events: `UNSTARTED, ENDED, PLAYING, PAUSED, BUFFERING, CUED`
+Even though the receiver uses multiple video players (and might support additional content types), it uses the YouTube event naming conventions. The receiver produces the folowing events: `UNSTARTED, ENDED, PLAYING, PAUSED, BUFFERING, CUED`
 
 
 
